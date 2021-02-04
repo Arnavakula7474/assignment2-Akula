@@ -17,3 +17,12 @@ Chicken Biryani is a savory **chicken and rice** dish that includes layers of ch
 5. Keep some basmati rice ready cooked.
 6. Once the curry is prepared, add the curry to the cooked basmati rice and keep it warm.
 7. Hot delicious chicken biryani is ready to serve.
+
+## Ingredients required
+* Chicken pieces
+* Basmati Rice
+* Onions
+* Tomatoes
+* Spices
+    * Pepper
+    * Cloves
