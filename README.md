@@ -26,3 +26,20 @@ Chicken Biryani is a savory **chicken and rice** dish that includes layers of ch
 * Spices
     * Pepper
     * Cloves
+
+[Click here to view](AboutMe.md)
+
+----
+
+## List of places
+
+In India there are many tourism places that I woukld like to suggest. As of now, I will suggest to visit the following places which I'm mentioning now. Rajasthan, famous for deserts and cultures. Maharastra, famous for food and cultures. Andhra Pradesh, famous for coastal places. Telangana, famous fpor Nizam's history.
+
+| Places | Time to spend | Amount to spend |
+| ---- | ---- | ---- |
+| Rajasthan | 150 | 150 $ |
+| Maharastra | 200 | 200 $ |
+| Andhra Pradesh | 250 | 300 $ |
+| Telangana | 300 | 350 $|
+
+
