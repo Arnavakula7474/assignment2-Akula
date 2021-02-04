@@ -48,3 +48,35 @@ Quotations that I like
 > "If your dreams don't scare you, they are too small" - _Richard Vranson_ <br>
 > "You only fail, when you stop trying" - _Albert Einstein_
 
+### Code language
+
+> Z++ is called as ZED PLUS PLUS, Z++ allows the definition of the classes.
+Z++ <https://en.wikipedia.org/>
+
+```
+/**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);                                   
+        System.out.println("Testing the EmployeeSalary class:");
+        System.out.println("Enter the hourly pay rate of the Employee: ");
+        double hourlyRate = scan.nextDouble();
+        System.out.println("Enter the insurance rate of the Employee in percentage: ");
+        double insuranceRate = scan.nextDouble();
+        System.out.println("Enter the tax rate of the Employee in percentage: ");
+        double taxRate = scan.nextDouble();
+        System.out.println("Enter the pf rate of the Employee in percentage: ");
+        double pfRate = scan.nextDouble();
+        System.out.println("Enter the bonus of the Employee: ");
+        double bonus = scan.nextDouble();
+        EmployeeSalary empSalObj1 = new EmployeeSalary(hourlyRate,insuranceRate,taxRate,pfRate);
+        System.out.println("The details of empSalObj1 object are as follows:");
+        System.out.println(empSalObj1.toString());
+        System.out.println("The monthly salary of the Employee is: "+empSalObj1.calcMonthlySalary());
+        System.out.println("The monthly insurance of the Employee is: "+empSalObj1.calcMonthlyInsurance());
+        System.out.println("The monthly pf of the Employee is: "+empSalObj1.calcMonthlyPfAmount());
+        System.out.println("The annual gross salary of the Employee is: "+empSalObj1.calcAnnualGrossSalary(bonus));
+```
+Z++ sample code reference <https://www.spigotmc.org/threads/detect-if-there-is-a-specific-block-a-chunk.432695/?__cf_chl_jschl_tk__>
+
