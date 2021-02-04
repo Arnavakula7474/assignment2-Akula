@@ -42,4 +42,9 @@ In India there are many tourism places that I woukld like to suggest. As of now,
 | Andhra Pradesh | 250 | 300 $ |
 | Telangana | 300 | 350 $|
 
+----
+
+Quotations that I like 
+> "If your dreams don't scare you, they are too small" - _Richard Vranson_ <br>
+> "You only fail, when you stop trying" - _Albert Einstein_
 
